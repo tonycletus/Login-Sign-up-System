@@ -1,5 +1,5 @@
 # Login-Sign-up-System
-<h3>A simple login | sign up | sign out | forget password | Email verification bundle page.</h3>
+<h3>A simple login | sign up | sign out | forget password | Email verification bundle pages.</h3>
 
 <h2>Screenshot</h2> 
 <p>
