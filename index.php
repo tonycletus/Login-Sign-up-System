@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             <label>
               <span class="req">*</span>
             </label>
-            <input type="email" required autocomplete="off" name="email"/ placeholder="Email Address">
+            <input type="email" required autocomplete="off" name="email" placeholder="Email Address" />
           </div>
           
           <div class="field-wrap">
